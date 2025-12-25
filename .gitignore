@@ -1,0 +1,9 @@
+working_dir_backup*
+*.zip
+*.csv
+*.h5
+*.pkl
+*.pt
+*.npy
+__pycache__/
+.env
